@@ -1,4 +1,7 @@
+### How to Run
+
+```
 $ go build todo.go
 $ ./todo
-
-Goto localhost:8080
+```
+Open browser and launch http://localhost:8080
